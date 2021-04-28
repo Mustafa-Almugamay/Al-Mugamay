@@ -1,0 +1,3 @@
+Die erste Zeile sind die bezeichnung von die Werte
+Der Rest sind die Messungswerte 
+Die CSV Datei ist Formatierungslose
